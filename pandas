@@ -1,0 +1,8 @@
+python-automation/
+│
+├── README.md
+├── csv_cleaner.py
+├── duplicate_file_finder.py
+├── bulk_file_renamer.py
+├── folder_organizer.py
+└── requirements.txt
